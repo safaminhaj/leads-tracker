@@ -3,7 +3,7 @@
     "version": "1.1",
     "name": "Leads tracker",
     "action": {
-        "default_popup": "index3.html",
+        "default_popup": "index.html",
         "default_icon": "icon1.png"
     },
     "permissions": [
